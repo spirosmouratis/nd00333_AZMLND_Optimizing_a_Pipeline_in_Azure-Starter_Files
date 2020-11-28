@@ -11,6 +11,8 @@ This model is then compared to an Azure AutoML run.
 *can be accepted or not for a loan application*
 
 **In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
+Inverse regularization parameter - A control variable that retains strength modification of Regularization by being inversely positioned to the Lambda regulator.
+
 
 ## Scikit-learn Pipeline
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
