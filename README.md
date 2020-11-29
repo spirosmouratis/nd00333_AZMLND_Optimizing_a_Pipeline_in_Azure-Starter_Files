@@ -12,9 +12,9 @@ can be accepted or not for a loan application
 
 **In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
 We applied one Logistic Regression from sklearn directly 
-and the results were, Accuracy 0.912 with C:39.78 and Max_itter : 1000
+and the results were, Accuracy 0.912 with C:53.14 and Max_itter : 1000
 The AutoMl best performing model was a VotingEnsemble one
-with Accuracy 0.9168. So marginally better the AutoMl wins over but in a industry/business environment both would be acceptable models.
+with Accuracy 0.9174. So marginally better the AutoMl wins over but in a industry/business environment both would be acceptable models.
 
 
 ## Scikit-learn Pipeline
@@ -59,5 +59,4 @@ who need to counter these biases
 
 
 ## Proof of cluster clean up
-**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-**Image of cluster marked for deletion**
+The screenshot is up. After I run the command the cluster was deleted but nothing was printed in the cell.
